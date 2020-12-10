@@ -1,0 +1,24 @@
+{
+  "id": "9b214538-5ed3-48a7-8cbc-17444d17e3bd",
+  "name": "Serbian Language",
+  "publisher": "Antares Apps doo",
+  "brief": "Serbian Language",
+  "description": "Serbian Language for Business Central",
+  "version": "1.0.0.24",
+  "runtime": "6.0",
+  "showMyCode": true,
+  "target": "Cloud",
+  "platform": "17.0.18204.18635",
+  "contextSensitiveHelpUrl": "https://docs.microsoft.com/dynamics365/business-central/",
+  "features": [
+    "TranslationFile"
+  ],
+  "dependencies": [
+    {
+      "id": "c1335042-3002-4257-bf8a-75c898ccb1b8",
+      "name": "Application",
+      "version": "17.0.0.0",
+      "publisher": "Microsoft"
+    }
+  ]
+}
