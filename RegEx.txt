@@ -1,3 +1,5 @@
 Remove ToolTips
-        <trans-unit.+\n.+\n.+\n.+ToolTip.+\n.+</trans-unit>\n
+        <trans-unit.+\n.+\n.+\n.+ToolTip.+\n.+\n.+</trans-unit>\n
+        <trans-unit.+\n.+\n.+\n.+\n.+ToolTip.+\n.+</trans-unit>\n
 Remove non translatable
+        <trans-unit.+translate="no".+\n.+\n.+\n.+\n.+\n.+</trans-unit>\n
