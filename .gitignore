@@ -12,6 +12,7 @@
 
 # Generated translation files
 *.g.xlf
+*untranslated.xlf
 
 # Temp files
 .vs/

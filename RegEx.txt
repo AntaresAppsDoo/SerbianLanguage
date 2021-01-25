@@ -11,3 +11,5 @@ Remove translations with a single space
         <trans-unit.+\n.+<source></source>\n.+\n.+\n.+</trans-unit>\n
 System App starts at <source>Aggregated Assisted Setup</source>
 Company Hub App start at <source>Enviroment No.</source>
+
+Azure key : f396ec7601954cda87167ccb8f2661e1
