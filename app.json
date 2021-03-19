@@ -11,6 +11,7 @@
   "platform": "17.0.0.0",
   "application": "17.0.0.0",
   "contextSensitiveHelpUrl": "https://docs.microsoft.com/dynamics365/business-central/",
+  "logo": "Logo.png",
   "features": [
     "TranslationFile"
   ]
