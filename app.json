@@ -4,12 +4,22 @@
   "publisher": "Antares Apps doo",
   "brief": "Serbian Language",
   "description": "Serbian Language for Business Central",
-  "version": "1.0.0.26",
+  "privacyStatement": "http://www.antaresapps.com",
+  "EULA": "http://www.antaresapps.com",
+  "help": "http://www.antaresapps.com",
+  "url": "http://www.antaresapps.com",
+  "version": "1.0.0.27",
   "runtime": "6.0",
   "showMyCode": true,
   "target": "Cloud",
   "platform": "17.0.0.0",
   "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
   "contextSensitiveHelpUrl": "https://docs.microsoft.com/dynamics365/business-central/",
   "logo": "Logo.png",
   "features": [
