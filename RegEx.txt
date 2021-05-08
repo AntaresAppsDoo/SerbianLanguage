@@ -11,6 +11,8 @@ Remove empty translation
         <trans-unit.+\n.+<source/>\n.+\n.+\n.+</trans-unit>\n
 Remove translations with a single space
         <trans-unit.+\n.+<source> </source>\n.+\n.+\n.+</trans-unit>\n
+Remove needs-l10n
+          <target state="needs-l10n">.+</target>
 System App starts at <source>Aggregated Assisted Setup</source>
 Company Hub App start at <source>Enviroment No.</source>
 
