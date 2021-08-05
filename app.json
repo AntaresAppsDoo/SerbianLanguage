@@ -8,12 +8,12 @@
   "EULA": "http://www.antaresapps.com",
   "help": "http://www.antaresapps.com",
   "url": "http://www.antaresapps.com",
-  "version": "1.0.0.46",
+  "version": "1.0.0.47",
   "runtime": "6.0",
   "showMyCode": false,
   "target": "Cloud",
-  "platform": "17.0.0.0",
-  "application": "17.0.0.0",
+  "platform": "18.0.0.0",
+  "application": "18.0.0.0",
   "applicationInsightsKey": "60bd4279-dff0-4e18-9c5d-f6c1f336e02c",
   "idRanges": [
     {
