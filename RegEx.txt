@@ -1,4 +1,4 @@
-Remove ToolTips
+Remove ToolTips (the third is relevant)
         <trans-unit.+\n.+\n.+\n.+ToolTip.+\n.+\n.+</trans-unit>\n
         <trans-unit.+\n.+\n.+\n.+\n.+ToolTip.+\n.+</trans-unit>\n
         <trans-unit.+\n.+\n.+\n.+ToolTip.+\n.+</trans-unit>\n
@@ -15,7 +15,7 @@ Remove translations Action171
         <trans-unit.+\n.+<source>Action\d{1,10}</source>\n.+\n.+\n.+</trans-unit>\n
 Remove needs-l10n
           <target state="needs-l10n">.+</target>\n
-System App starts at <source>Aggregated Assisted Setup</source>
-Company Hub App start at <source>Enviroment No.</source>
+System App starts at <source>ABS Container</source>
+Company Hub App start at <source>COHUB Company Endpoint</source>
 
 Azure key : f396ec7601954cda87167ccb8f2661e1
