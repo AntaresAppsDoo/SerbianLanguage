@@ -8,7 +8,7 @@
   "EULA": "http://www.antaresapps.com",
   "help": "http://www.antaresapps.com",
   "url": "http://www.antaresapps.com",
-  "version": "1.0.0.67",
+  "version": "1.0.0.68",
   "runtime": "8.0",
   "resourceExposurePolicy": {"allowDownloadingSource": false, "includeSourceInSymbolFile": false},
   "target": "Cloud",
@@ -16,8 +16,8 @@
   "application": "19.0.0.0",
   "idRanges": [
     {
-      "from": 50100,
-      "to": 50149
+      "from": 70287075,
+      "to": 70288074
     }
   ],
   "contextSensitiveHelpUrl": "https://docs.microsoft.com/dynamics365/business-central/",
