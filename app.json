@@ -24,5 +24,6 @@
   "logo": "Logo.png",
   "features": [
     "TranslationFile"
-  ]
+  ],
+  "applicationInsightsConnectionString": "InstrumentationKey=60bd4279-dff0-4e18-9c5d-f6c1f336e02c;IngestionEndpoint=https://westeurope-2.in.applicationinsights.azure.com/"
 }
