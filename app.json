@@ -1,14 +1,14 @@
 {
   "id": "9b214538-5ed3-48a7-8cbc-17444d17e3bd",
   "name": "Serbian Language",
-  "publisher": "Antares Apps doo",
+  "publisher": "Antares Apps",
   "brief": "Serbian Language",
   "description": "Serbian Language for Business Central",
   "privacyStatement": "http://www.antaresapps.com",
   "EULA": "http://www.antaresapps.com",
   "help": "http://www.antaresapps.com",
   "url": "http://www.antaresapps.com",
-  "version": "1.0.0.78",
+  "version": "1.0.1.0",
   "runtime": "8.0",
   "resourceExposurePolicy": {"allowDownloadingSource": false, "includeSourceInSymbolFile": false},
   "target": "Cloud",
@@ -16,7 +16,7 @@
   "application": "19.0.0.0",
   "idRanges": [
     {
-      "from": 70287075,
+      "from": 70288074,
       "to": 70288074
     }
   ],
