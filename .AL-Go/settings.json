@@ -1,7 +1,7 @@
 {
-  "country": "us",
+  "country": "w1",
   "appSourceCopMandatoryAffixes": [
-    "<affix>"
+    "ANT"
   ],
   "appFolders": [],
   "testFolders": [],
