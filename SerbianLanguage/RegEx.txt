@@ -1,0 +1,17 @@
+Remove ToolTips (the third is relevant)
+        <trans-unit.+\n.+\n.+\n.+ToolTip.+\n.+\n.+</trans-unit>\n
+        <trans-unit.+\n.+\n.+\n.+\n.+ToolTip.+\n.+</trans-unit>\n
+        <trans-unit.+\n.+\n.+\n.+ToolTip.+\n.+</trans-unit>\n
+Remove translated
+        <trans-unit.+\n.+\n.+target.+\n.+\n.+\n.+</trans-unit>\n
+Remove empty translation
+        <trans-unit.+\n.+<source></source>\n.+\n.+\n.+</trans-unit>\n
+        <trans-unit.+\n.+<source/>\n.+\n.+\n.+</trans-unit>\n
+Remove translations with a single space
+        <trans-unit.+\n.+<source> </source>\n.+\n.+\n.+</trans-unit>\n
+Remove translations Action171
+        <trans-unit.+\n.+<source>Action\d{1,10}</source>\n.+\n.+\n.+</trans-unit>\n
+Remove needs-l10n
+          <target state="needs-l10n">.+</target>\n
+System App starts at <source>ABS Container</source>
+Company Hub App start at <source>COHUB Company Endpoint</source>
