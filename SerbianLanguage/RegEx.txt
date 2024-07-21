@@ -7,6 +7,8 @@ Remove translations with a single space
         <trans-unit.+\n.+<source> </source>\n.+\n.+\n.+</trans-unit>\n
 Remove translations Action171
         <trans-unit.+\n.+<source>Action\d{1,10}</source>\n.+\n.+\n.+</trans-unit>\n
+Remove Field Service objects
+        <trans-unit.+\n.+\n.+\n.+\n.+(Table|Codeunit|Page|Enum) FS.+\n.+</trans-unit>\n
 
 
 Remove translated
