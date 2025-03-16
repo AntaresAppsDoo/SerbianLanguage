@@ -1,4 +1,4 @@
-Remove ToolTips (the third is relevant)
+Remove ToolTips
         <trans-unit.+\n.+\n.+\n.+ToolTip.+\n.+</trans-unit>\n
 Remove empty translation
         <trans-unit.+\n.+<source></source>\n.+\n.+\n.+</trans-unit>\n
@@ -19,3 +19,4 @@ System App starts at <source>Copilot Settings</source>
 Company Hub App starts at <source>COHUB Company Endpoint</source>
 Business Foundation starts at <source>No. Series</source>
 EDocuments App starts at <source>E-Document Matching Assistance</source>
+Essential Business Headlines starts at <source>Ess. Business Headline Per Usr</source>

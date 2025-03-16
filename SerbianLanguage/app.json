@@ -8,15 +8,15 @@
   "EULA": "http://www.antaresapps.com",
   "help": "http://www.antaresapps.com",
   "url": "http://www.antaresapps.com",
-  "version": "2025.2.5.0",
-  "runtime": "13.0",
+  "version": "2025.3.16.0",
+  "runtime": "14.0",
   "resourceExposurePolicy": {
     "allowDownloadingSource": false,
     "includeSourceInSymbolFile": false
   },
   "target": "Cloud",
-  "platform": "24.0.0.0",
-  "application": "24.0.0.0",
+  "platform": "25.0.0.0",
+  "application": "25.0.0.0",
   "idRanges": [
     {
       "from": 70288074,
