@@ -8,7 +8,7 @@
   "EULA": "http://www.antaresapps.com",
   "help": "http://www.antaresapps.com",
   "url": "http://www.antaresapps.com",
-  "version": "2025.3.16.0",
+  "version": "2025.3.23.0",
   "runtime": "14.0",
   "resourceExposurePolicy": {
     "allowDownloadingSource": false,
